@@ -1,6 +1,6 @@
 branch-defaults:
   main:
-    environment: null
+    environment: flask-continuous-delivery-env
     group_suffix: null
 global:
   application_name: Flask-Elastic-Beanstalk
